@@ -35,9 +35,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1592488140876">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592488140876" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1592487745985">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592487745985" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1592488163997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592488163997" />
   </component>
 </project>
